@@ -1,0 +1,14 @@
+__pycache__
+envs
+env/
+.venv
+.idea/
+.cache/
+.pytest_cache/
+*.xlsx
+userdata.py
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
